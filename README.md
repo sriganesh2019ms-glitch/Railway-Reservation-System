@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="726" height="562" alt="image" src="https://github.com/user-attachments/assets/f43c4e7e-7613-4615-a045-1e79466d763d" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1917" height="981" alt="Screenshot 2026-10-27 143628" src="https://github.com/user-attachments/assets/871aed3b-1214-4fdf-b1c2-bce551693003" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="695" height="532" alt="image" src="https://github.com/user-attachments/assets/ddf0fc74-d507-4e1c-8dbe-e0fe073c09e9" />
 
 
 
@@ -79,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1256" height="897" alt="image" src="https://github.com/user-attachments/assets/f0149d06-09f9-495e-a8fb-a037e6e81923" />
 
 
 
@@ -99,6 +103,7 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="622" height="562" alt="image" src="https://github.com/user-attachments/assets/4cf06028-3ebe-413b-9327-bf2abeed9bd0" />
 
 
 # SEQUENCE DIAGRAM
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1906" height="997" alt="Screenshot 2026-11-02 105610" src="https://github.com/user-attachments/assets/a75bd2a9-4742-4f34-ab54-c34131ee2020" />
 
 
 
